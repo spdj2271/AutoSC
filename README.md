@@ -13,7 +13,7 @@ Download features:
 
 https://drive.google.com/file/d/1iOKLe1WJGRawemSDxljbM6pAe0HprdQ7/view?usp=sharing
 
-These features are extracted using the pretrained CLIP ViT-B/32 encoder (https://huggingface.co/openai/clip-vit-base-patch32) and are used as the input representations for clustering experiments.
+These features are extracted using the pretrained [CLIP ViT-B/32 encoder](https://huggingface.co/openai/clip-vit-base-patch32) and are used as the input representations for clustering experiments.
 
 
 After downloading:
