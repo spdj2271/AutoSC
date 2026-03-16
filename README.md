@@ -11,7 +11,7 @@ For convenience, we provide pre-extracted representations using a pretrained ViT
 
 Download features:
 
-https://drive.google.com/file/d/1iOKLe1WJGRawemSDxljbM6pAe0HprdQ7/view?usp=sharing
+[https://drive.google.com/file/d/1iOKLe1WJGRawemSDxljbM6pAe0HprdQ7/view?usp=sharing](https://drive.google.com/drive/folders/1-T1btrAD2bj4VwOA7d0-c-wUj3I_RUdf?usp=sharing)
 
 These features are extracted using the pretrained [CLIP ViT-B/32 encoder](https://huggingface.co/openai/clip-vit-base-patch32) and are used as the input representations for clustering experiments.
 
