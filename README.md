@@ -16,13 +16,7 @@ https://drive.google.com/file/d/1iOKLe1WJGRawemSDxljbM6pAe0HprdQ7/view?usp=shari
 These features are extracted using the pretrained [CLIP ViT-B/32 encoder](https://huggingface.co/openai/clip-vit-base-patch32) and are used as the input representations for clustering experiments.
 
 
-After downloading:
-```
-wget --no-check-certificate "https://drive.google.com/uc?export=download&id=1iOKLe1WJGRawemSDxljbM6pAe0HprdQ7" -O dataset_embedding.tar.gz
-tar -xzf dataset_embedding.tar.gz
-```
-
-The directory should look like:
+After downloading: the directory should be organizaed as:
 ```
 AutoSC
 └── data_HFCLIP
